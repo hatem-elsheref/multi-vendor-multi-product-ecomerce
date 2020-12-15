@@ -1,4 +1,8 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center">
+    <img src="https://github.com/hatem-mohamed-elsheref/multi-vendor-multi-product-ecomerce/blob/master/Screenshot%20from%202020-12-15%2022-36-40.png" width="900">
+    <img src="https://github.com/hatem-mohamed-elsheref/multi-vendor-multi-product-ecomerce/blob/master/Screenshot%20from%202020-12-15%2022-38-34.png" width="900"></p>
+
+</p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
