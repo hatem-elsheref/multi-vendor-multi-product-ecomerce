@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d13b0526-298b-485e-a730-eba069028958" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/.idea/Admin-Temlate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/.idea/Admin-Temlate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/CHANGES.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/CHANGES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/contents.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/contents.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/lang/_translationstatus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/lang/_translationstatus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/autocomplete/skins/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/autocomplete/skins/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/balloonpanel/skins/kama/balloonpanel.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/balloonpanel/skins/kama/balloonpanel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/balloonpanel/skins/moono-lisa/balloonpanel.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/balloonpanel/skins/moono-lisa/balloonpanel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/balloonpanel/skins/moono/balloonpanel.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/balloonpanel/skins/moono/balloonpanel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/balloontoolbar/skins/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/balloontoolbar/skins/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/balloontoolbar/skins/kama/balloontoolbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/balloontoolbar/skins/kama/balloontoolbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/balloontoolbar/skins/moono-lisa/balloontoolbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/balloontoolbar/skins/moono-lisa/balloontoolbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/balloontoolbar/skins/moono/balloontoolbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/balloontoolbar/skins/moono/balloontoolbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/CHANGES.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/CHANGES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/README.ru.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/README.ru.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/highlight.pack.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/highlight.pack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/arta.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/arta.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/ascetic.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/ascetic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-dune.dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-dune.dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-dune.light.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-dune.light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-forest.dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-forest.dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-forest.light.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-forest.light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-heath.dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-heath.dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-heath.light.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-heath.light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-lakeside.dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-lakeside.dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-lakeside.light.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-lakeside.light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-seaside.dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-seaside.dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-seaside.light.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-seaside.light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/brown_paper.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/brown_paper.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/docco.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/docco.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/far.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/far.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/foundation.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/foundation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/github.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/github.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/googlecode.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/googlecode.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/idea.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/idea.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/ir_black.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/ir_black.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/magula.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/magula.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/mono-blue.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/mono-blue.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/monokai.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/monokai.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/monokai_sublime.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/monokai_sublime.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/obsidian.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/obsidian.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/paraiso.dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/paraiso.dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/paraiso.light.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/paraiso.light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/pojoaque.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/pojoaque.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/railscasts.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/railscasts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/rainbow.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/rainbow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/school_book.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/school_book.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/solarized_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/solarized_dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/solarized_light.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/solarized_light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/sunburst.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/sunburst.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-blue.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-blue.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-bright.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-bright.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-eighties.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-eighties.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/vs.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/vs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/xcode.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/xcode.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/zenburn.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/zenburn.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/colordialog/dialogs/colordialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/colordialog/dialogs/colordialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/copyformatting/styles/copyformatting.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/copyformatting/styles/copyformatting.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/devtools/lang/_translationstatus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/devtools/lang/_translationstatus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/easyimage/styles/easyimage.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/easyimage/styles/easyimage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/emoji/skins/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/emoji/skins/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/imagebase/styles/imagebase.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/imagebase/styles/imagebase.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/preview/preview.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/preview/preview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/scayt/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/scayt/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/scayt/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/scayt/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/scayt/dialogs/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/scayt/dialogs/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/scayt/dialogs/toolbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/scayt/dialogs/toolbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/tableselection/styles/tableselection.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/tableselection/styles/tableselection.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/templates/dialogs/templates.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/templates/dialogs/templates.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/uicolor/dialogs/uicolor.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/uicolor/dialogs/uicolor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/uicolor/lang/_translationstatus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/uicolor/lang/_translationstatus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/wsc/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/wsc/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/wsc/dialogs/ciframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/wsc/dialogs/ciframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/wsc/dialogs/wsc.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/wsc/dialogs/wsc.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/css/samples.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/css/samples.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/js/sample.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/js/sample.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/ajax.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/ajax.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/api.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/api.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/appendto.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/appendto.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/assets/outputxhtml/outputxhtml.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/assets/outputxhtml/outputxhtml.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/assets/posteddata.php" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/assets/posteddata.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/autocomplete/customview.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/autocomplete/customview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/autocomplete/smiley.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/autocomplete/smiley.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/autogrow/autogrow.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/autogrow/autogrow.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/bbcode/bbcode.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/bbcode/bbcode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/codesnippet/codesnippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/codesnippet/codesnippet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/datafiltering.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/datafiltering.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/devtools/devtools.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/devtools/devtools.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/dialog/assets/my_dialog.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/dialog/assets/my_dialog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/dialog/dialog.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/dialog/dialog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/divarea/divarea.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/divarea/divarea.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/divreplace.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/divreplace.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/docprops/docprops.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/docprops/docprops.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/easyimage/easyimage.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/easyimage/easyimage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/emoji/emoji.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/emoji/emoji.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/enterkey/enterkey.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/enterkey/enterkey.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/htmlwriter/outputforflash.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/htmlwriter/outputforflash.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/htmlwriter/outputhtml.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/htmlwriter/outputhtml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/image2/image2.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/image2/image2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/inlineall.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/inlineall.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/inlinebycode.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/inlinebycode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/inlinetextarea.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/inlinetextarea.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/jquery.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/jquery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/magicline/magicline.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/magicline/magicline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/mathjax/mathjax.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/mathjax/mathjax.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/mentions/mentions.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/mentions/mentions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/placeholder/placeholder.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/placeholder/placeholder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/readonly.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/readonly.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/replacebyclass.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/replacebyclass.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/replacebycode.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/replacebycode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/sample.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/sample.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/sample.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/sample.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/sample_posteddata.php" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/sample_posteddata.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/sharedspace/sharedspace.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/sharedspace/sharedspace.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/sourcedialog/sourcedialog.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/sourcedialog/sourcedialog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/stylesheetparser/assets/sample.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/stylesheetparser/assets/sample.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/stylesheetparser/stylesheetparser.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/stylesheetparser/stylesheetparser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/tabindex.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/tabindex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/tableresize/tableresize.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/tableresize/tableresize.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/toolbar/toolbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/toolbar/toolbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/uicolor.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/uicolor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/uicolor/uicolor.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/uicolor/uicolor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/uilanguages.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/uilanguages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/wysiwygarea/fullpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/wysiwygarea/fullpage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/xhtmlstyle.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/old/xhtmlstyle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/toolbarconfigurator/css/fontello.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/toolbarconfigurator/css/fontello.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/toolbarconfigurator/font/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/toolbarconfigurator/font/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/toolbarconfigurator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/toolbarconfigurator/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/neo.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/neo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/kama/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/kama/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/kama/dialog_ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/kama/dialog_ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/kama/dialog_ie7.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/kama/dialog_ie7.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/kama/dialog_ie8.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/kama/dialog_ie8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/kama/dialog_iequirks.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/kama/dialog_iequirks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/kama/editor.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/kama/editor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/kama/editor_ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/kama/editor_ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/kama/editor_ie7.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/kama/editor_ie7.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/kama/editor_ie8.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/kama/editor_ie8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/kama/editor_iequirks.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/kama/editor_iequirks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/kama/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/kama/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono-lisa/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono-lisa/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono-lisa/dialog_ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono-lisa/dialog_ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono-lisa/dialog_ie8.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono-lisa/dialog_ie8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono-lisa/dialog_iequirks.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono-lisa/dialog_iequirks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono-lisa/editor.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono-lisa/editor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono-lisa/editor_gecko.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono-lisa/editor_gecko.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono-lisa/editor_ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono-lisa/editor_ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono-lisa/editor_ie8.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono-lisa/editor_ie8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono-lisa/editor_iequirks.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono-lisa/editor_iequirks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono-lisa/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono-lisa/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/dialog_ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/dialog_ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/dialog_ie7.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/dialog_ie7.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/dialog_ie8.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/dialog_ie8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/dialog_iequirks.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/dialog_iequirks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/editor.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/editor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/editor_gecko.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/editor_gecko.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/editor_ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/editor_ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/editor_ie7.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/editor_ie7.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/editor_ie8.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/editor_ie8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/editor_iequirks.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/editor_iequirks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/skins/moono/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/ckeditor/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/css/datatable.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/css/datatable.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/css/datebicker.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/css/datebicker.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/css/mystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/css/mystyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/css/pace.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/css/pace.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/css/select2.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/css/select2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/js/ckeditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/js/ckeditor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/js/datatable.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/js/datatable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/js/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/js/demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/js/editor_switch_on.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/js/editor_switch_on.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/js/image_transform_on_update.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/js/image_transform_on_update.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/js/jqyery.datatable.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/js/jqyery.datatable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/js/pace.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/js/pace.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/js/select2.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/assets/js/select2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/editor.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/editor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/forms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/starter.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/starter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/template.php" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/Dashboard_Basics_Component/template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/CHANGES.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/CHANGES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/contents.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/contents.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/lang/_translationstatus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/lang/_translationstatus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/autocomplete/skins/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/autocomplete/skins/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/balloonpanel/skins/kama/balloonpanel.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/balloonpanel/skins/kama/balloonpanel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/balloonpanel/skins/moono-lisa/balloonpanel.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/balloonpanel/skins/moono-lisa/balloonpanel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/balloonpanel/skins/moono/balloonpanel.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/balloonpanel/skins/moono/balloonpanel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/balloontoolbar/skins/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/balloontoolbar/skins/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/balloontoolbar/skins/kama/balloontoolbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/balloontoolbar/skins/kama/balloontoolbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/balloontoolbar/skins/moono-lisa/balloontoolbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/balloontoolbar/skins/moono-lisa/balloontoolbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/balloontoolbar/skins/moono/balloontoolbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/balloontoolbar/skins/moono/balloontoolbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/CHANGES.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/CHANGES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/README.ru.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/README.ru.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/highlight.pack.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/highlight.pack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/arta.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/arta.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/ascetic.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/ascetic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-dune.dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-dune.dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-dune.light.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-dune.light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-forest.dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-forest.dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-forest.light.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-forest.light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-heath.dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-heath.dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-heath.light.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-heath.light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-lakeside.dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-lakeside.dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-lakeside.light.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-lakeside.light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-seaside.dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-seaside.dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-seaside.light.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-seaside.light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/brown_paper.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/brown_paper.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/docco.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/docco.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/far.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/far.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/foundation.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/foundation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/github.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/github.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/googlecode.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/googlecode.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/idea.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/idea.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/ir_black.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/ir_black.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/magula.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/magula.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/mono-blue.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/mono-blue.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/monokai.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/monokai.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/monokai_sublime.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/monokai_sublime.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/obsidian.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/obsidian.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/paraiso.dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/paraiso.dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/paraiso.light.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/paraiso.light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/pojoaque.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/pojoaque.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/railscasts.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/railscasts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/rainbow.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/rainbow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/school_book.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/school_book.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/solarized_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/solarized_dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/solarized_light.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/solarized_light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/sunburst.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/sunburst.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-blue.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-blue.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-bright.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-bright.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-eighties.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-eighties.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/vs.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/vs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/xcode.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/xcode.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/zenburn.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/codesnippet/lib/highlight/styles/zenburn.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/colordialog/dialogs/colordialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/colordialog/dialogs/colordialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/copyformatting/styles/copyformatting.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/copyformatting/styles/copyformatting.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/devtools/lang/_translationstatus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/devtools/lang/_translationstatus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/easyimage/styles/easyimage.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/easyimage/styles/easyimage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/emoji/skins/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/emoji/skins/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/imagebase/styles/imagebase.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/imagebase/styles/imagebase.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/preview/preview.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/preview/preview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/scayt/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/scayt/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/scayt/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/scayt/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/scayt/dialogs/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/scayt/dialogs/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/scayt/dialogs/toolbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/scayt/dialogs/toolbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/tableselection/styles/tableselection.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/tableselection/styles/tableselection.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/templates/dialogs/templates.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/templates/dialogs/templates.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/uicolor/dialogs/uicolor.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/uicolor/dialogs/uicolor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/uicolor/lang/_translationstatus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/uicolor/lang/_translationstatus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/wsc/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/wsc/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/wsc/dialogs/ciframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/wsc/dialogs/ciframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/wsc/dialogs/wsc.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/wsc/dialogs/wsc.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/css/samples.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/css/samples.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/js/sample.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/js/sample.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/ajax.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/ajax.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/api.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/api.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/appendto.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/appendto.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/assets/outputxhtml/outputxhtml.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/assets/outputxhtml/outputxhtml.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/assets/posteddata.php" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/assets/posteddata.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/autocomplete/customview.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/autocomplete/customview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/autocomplete/smiley.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/autocomplete/smiley.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/autogrow/autogrow.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/autogrow/autogrow.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/bbcode/bbcode.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/bbcode/bbcode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/codesnippet/codesnippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/codesnippet/codesnippet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/datafiltering.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/datafiltering.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/devtools/devtools.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/devtools/devtools.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/dialog/assets/my_dialog.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/dialog/assets/my_dialog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/dialog/dialog.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/dialog/dialog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/divarea/divarea.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/divarea/divarea.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/divreplace.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/divreplace.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/docprops/docprops.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/docprops/docprops.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/easyimage/easyimage.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/easyimage/easyimage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/emoji/emoji.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/emoji/emoji.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/enterkey/enterkey.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/enterkey/enterkey.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/htmlwriter/outputforflash.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/htmlwriter/outputforflash.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/htmlwriter/outputhtml.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/htmlwriter/outputhtml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/image2/image2.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/image2/image2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/inlineall.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/inlineall.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/inlinebycode.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/inlinebycode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/inlinetextarea.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/inlinetextarea.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/jquery.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/jquery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/magicline/magicline.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/magicline/magicline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/mathjax/mathjax.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/mathjax/mathjax.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/mentions/mentions.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/mentions/mentions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/placeholder/placeholder.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/placeholder/placeholder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/readonly.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/readonly.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/replacebyclass.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/replacebyclass.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/replacebycode.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/replacebycode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/sample.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/sample.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/sample.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/sample.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/sample_posteddata.php" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/sample_posteddata.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/sharedspace/sharedspace.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/sharedspace/sharedspace.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/sourcedialog/sourcedialog.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/sourcedialog/sourcedialog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/stylesheetparser/assets/sample.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/stylesheetparser/assets/sample.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/stylesheetparser/stylesheetparser.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/stylesheetparser/stylesheetparser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/tabindex.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/tabindex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/tableresize/tableresize.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/tableresize/tableresize.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/toolbar/toolbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/toolbar/toolbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/uicolor.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/uicolor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/uicolor/uicolor.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/uicolor/uicolor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/uilanguages.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/uilanguages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/wysiwygarea/fullpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/wysiwygarea/fullpage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/xhtmlstyle.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/old/xhtmlstyle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/toolbarconfigurator/css/fontello.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/toolbarconfigurator/css/fontello.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/toolbarconfigurator/font/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/toolbarconfigurator/font/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/toolbarconfigurator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/toolbarconfigurator/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/neo.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/neo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/kama/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/kama/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/kama/dialog_ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/kama/dialog_ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/kama/dialog_ie7.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/kama/dialog_ie7.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/kama/dialog_ie8.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/kama/dialog_ie8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/kama/dialog_iequirks.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/kama/dialog_iequirks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/kama/editor.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/kama/editor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/kama/editor_ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/kama/editor_ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/kama/editor_ie7.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/kama/editor_ie7.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/kama/editor_ie8.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/kama/editor_ie8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/kama/editor_iequirks.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/kama/editor_iequirks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/kama/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/kama/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono-lisa/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono-lisa/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono-lisa/dialog_ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono-lisa/dialog_ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono-lisa/dialog_ie8.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono-lisa/dialog_ie8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono-lisa/dialog_iequirks.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono-lisa/dialog_iequirks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono-lisa/editor.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono-lisa/editor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono-lisa/editor_gecko.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono-lisa/editor_gecko.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono-lisa/editor_ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono-lisa/editor_ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono-lisa/editor_ie8.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono-lisa/editor_ie8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono-lisa/editor_iequirks.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono-lisa/editor_iequirks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono-lisa/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono-lisa/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/dialog_ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/dialog_ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/dialog_ie7.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/dialog_ie7.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/dialog_ie8.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/dialog_ie8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/dialog_iequirks.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/dialog_iequirks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/editor.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/editor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/editor_gecko.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/editor_gecko.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/editor_ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/editor_ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/editor_ie7.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/editor_ie7.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/editor_ie8.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/editor_ie8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/editor_iequirks.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/editor_iequirks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/skins/moono/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/ckeditor/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/css/datatable.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/css/datatable.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/css/datebicker.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/css/datebicker.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/css/mystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/css/mystyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/css/pace.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/css/pace.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/css/select2.css" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/css/select2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/js/ckeditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/js/ckeditor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/js/datatable.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/js/datatable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/js/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/js/demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/js/editor_switch_on.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/js/editor_switch_on.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/js/image_transform_on_update.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/js/image_transform_on_update.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/js/jqyery.datatable.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/js/jqyery.datatable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/js/pace.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/js/pace.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/assets/js/select2.js" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/assets/js/select2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/editor.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/editor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/forms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/starter.html" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/starter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Admin-Temlate/template.php" beforeDir="false" afterPath="$PROJECT_DIR$/design/Admin-Temlate/template.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/realrashid/sweet-alert" />
+      <path value="$PROJECT_DIR$/vendor/stevebauman/purify" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/cocur/slugify" />
+      <path value="$PROJECT_DIR$/vendor/cviebrock/eloquent-sluggable" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1l48WKwGzXsrnwRyDaK2pjvnBkw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../material" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/admin/seller" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/Front" />
+      <recent name="$PROJECT_DIR$/resources/views/front/pages/auth" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/Auth" />
+      <recent name="$PROJECT_DIR$/resources/views/mail" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/admin/seller/messages" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/Admin" />
+      <recent name="$PROJECT_DIR$/public/assets/front/images/logo" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/Front" />
+      <recent name="$PROJECT_DIR$/public/assets/admin/fonts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d13b0526-298b-485e-a730-eba069028958" name="Default Changelist" comment="" />
+      <created>1606845034330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606845034330</updated>
+      <workItem from="1606845036155" duration="7318000" />
+      <workItem from="1606925429520" duration="1439000" />
+      <workItem from="1606927099464" duration="183000" />
+      <workItem from="1606927491749" duration="22322000" />
+      <workItem from="1607001164005" duration="52884000" />
+      <workItem from="1607090358385" duration="33778000" />
+      <workItem from="1607183641734" duration="19596000" />
+      <workItem from="1607246051072" duration="11000" />
+      <workItem from="1607333372198" duration="52059000" />
+      <workItem from="1607438925767" duration="36610000" />
+      <workItem from="1607513663024" duration="37908000" />
+      <workItem from="1607620662893" duration="25269000" />
+      <workItem from="1607695488762" duration="5973000" />
+      <workItem from="1607711606281" duration="9499000" />
+      <workItem from="1607764939962" duration="1778000" />
+      <workItem from="1607813463723" duration="178000" />
+      <workItem from="1607815827572" duration="1617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="158" y="25" width="1584" height="1051" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607385783383">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="158" y="25" width="1584" height="1051" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1607385783383" />
+    <state x="693" y="310" width="524" height="480" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1607537980121">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="693" y="310" width="524" height="480" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1607537980121" />
+    <state x="477" y="28" width="955" height="1044" key="CommitChangelistDialog2" timestamp="1607056258236">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="477" y="28" width="955" height="1044" key="CommitChangelistDialog2/0.25.1920.1055@0.25.1920.1055" timestamp="1607056258236" />
+    <state x="743" y="310" width="424" height="480" key="FileChooserDialogImpl" timestamp="1607813639157">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="743" y="310" width="424" height="480" key="FileChooserDialogImpl/0.25.1920.1055@0.25.1920.1055" timestamp="1607813639157" />
+    <state x="638" y="249" width="643" height="602" key="NewPhpClassDialog" timestamp="1607522336159">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="638" y="249" width="643" height="602" key="NewPhpClassDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1607522336159" />
+    <state x="755" y="473" width="329" height="159" key="NewPhpFileDialog" timestamp="1607642396105">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="755" y="473" width="329" height="159" key="NewPhpFileDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1607642396105" />
+    <state x="449" y="187" key="SettingsEditor" timestamp="1606926918987">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="449" y="187" key="SettingsEditor/0.25.1920.1055@0.25.1920.1055" timestamp="1606926918987" />
+    <state x="653" y="257" width="757" height="590" key="find.popup" timestamp="1607111453616">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="653" y="257" width="757" height="590" key="find.popup/0.25.1920.1055@0.25.1920.1055" timestamp="1607111453616" />
+    <state x="624" y="254" width="672" height="677" key="run.anything.popup" timestamp="1607718829259">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="624" y="254" width="672" height="677" key="run.anything.popup/0.25.1920.1055@0.25.1920.1055" timestamp="1607718829259" />
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1607545917295">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup/0.25.1920.1055@0.25.1920.1055" timestamp="1607545917295" />
+  </component>
+</project>

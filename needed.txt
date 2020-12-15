@@ -1,0 +1,41 @@
+FrontEnd
+----------------------------------------------------------------------------
+seller profile
+#### TO ME #### show all the plan transaction details and current plan details and start and end date
+*show all products which he ordered and in waiting mode
+#### TO ME #### show all products which he ordered and already derived
+----------------------------------------------------------------------------
+customer profile
+*show all products which he ordered and in waiting mode
+#### TO ME #### show all products which he ordered and already derived
+----------------------------------------------------------------------------
+*Finish the shop file
+*Finish the search result file
+*Finish the filter file
+*Finish the rate system
+*Finish cart file
+*Finish Product Details File
+*Finish Checkout
+*Finish The Track system
+Backend
+----------------------------------------------------------------------------
+*Make Contact Controller that make the admin able to reply to the messages by email and remove it or cancel it
+#### TO ME #### Make Coupon For Every seller he can make coupons to his products and manage it and send email to all in news letter
+==========>Make Dashboard For Every seller and the admin to show statistics
+#### TO ME #### Make tags for every product and search with it
+#### TO ME #### Make settings For every seller to manage some configurations to his stock
+#### TO ME #### Make settings to admin to manage the system configuration
+*Make File that make the seller to show the orders and manage it approve or cancel
+*if he approved popup will be shown and enter the days of delivering the order
+----------------------------------------------------------------------------
+
+
+
+
+
+
+----------------------------------------------------------------------------
+// revision tho the ordered by
+// revision to the relation when delete element
+// #### TO ME ####  make notifications with numbers of orders for every seller
+----------------------------------------------------------------------------
